@@ -93,4 +93,4 @@ A passionate Full Stack Developer focused on building efficient and user-centric
 
 ---
 
-<img src="https://" width="900">
+<img src=".github/workflows/pac_gif.gif" alt="Pac-Man GIF" width="500">
