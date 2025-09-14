@@ -90,10 +90,11 @@ Using dynamic top languages from your repositories:
 ## Contribution Graph with Pac-Man Effect
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushpandey101/ayushpandey101/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushpandey101/ayushpandey101/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man Contributions" src="https://raw.githubusercontent.com/ayushpandey101/ayushpandey101/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushpandey101/ayushpandey101/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushpandey101/ayushpandey101/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ayushpandey101/ayushpandey101/output/pacman-contribution-graph.svg">
 </picture>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ayushpandey101"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushpandey101" /></a></p><br><br>
