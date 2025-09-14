@@ -1,10 +1,12 @@
 [![20230523-132721.jpg](https://i.postimg.cc/4dyB4kDw/20230523-132721.jpg)](https://postimg.cc/JDwbKg4B)
 <h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
 <h3 align="center">Code As Codegeass</h3>
-<p align="center">
-  <img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-</p>
+
 <br/>
+<div>
+<p align="center">
+  <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</p>
 
 A passionate Full Stack Developer focused on building efficient and user-centric web applications.
 
@@ -14,7 +16,7 @@ A passionate Full Stack Developer focused on building efficient and user-centric
 - 🤝 **Open to:** Collaborating on innovative, end-to-end projects.
 - 📫 **Contact me:** sjas.ayushpandey101@gmail.com
 - ⚡ **Motto:** Push Past Your Limit
-
+</div>
 ---
   
 <h2 align="center">🧑‍💻 Tech Stack 👨‍💻</h2>
@@ -71,13 +73,12 @@ A passionate Full Stack Developer focused on building efficient and user-centric
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ayushpandey101&show_icons=true&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ayushpandey101&show_icons=true&theme=light">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayushpandey101&show_icons=true">
+  <img width="45%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayushpandey101&show_icons=true">
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ayushpandey101&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ayushpandey101&theme=light">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=ayushpandey101">
+  <img width="48%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=ayushpandey101">
 </picture>
 
 ---
@@ -92,4 +93,4 @@ A passionate Full Stack Developer focused on building efficient and user-centric
 
 ---
 
-<img src="https://github.dev/ayushpandey101/ayushpandey101/.github/workflows/pacmangif.gif" width="900">
+<img src="https://" width="900">
