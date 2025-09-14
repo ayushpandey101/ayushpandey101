@@ -17,8 +17,10 @@ A passionate Full Stack Developer focused on building efficient and user-centric
 - 📫 **Contact me:** sjas.ayushpandey101@gmail.com
 - ⚡ **Motto:** Push Past Your Limit
 </div>
+
+
 ---
-  
+
 <h2 align="center">🧑‍💻 Tech Stack 👨‍💻</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -93,4 +95,6 @@ A passionate Full Stack Developer focused on building efficient and user-centric
 
 ---
 
-<img src=".github/workflows/pac_gif.gif" alt="Pac-Man GIF" width="500">
+<p align="center">
+  <img src=".github/workflows/pac_gif.gif" alt="Pac-Man GIF" width="500" align="center">
+</p>
