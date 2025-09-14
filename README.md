@@ -34,6 +34,7 @@ A passionate Full Stack Developer focused on building efficient and user-centric
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
   
@@ -98,3 +99,4 @@ A passionate Full Stack Developer focused on building efficient and user-centric
 <p align="center">
   <img src=".github/workflows/pac_gif.gif" alt="Pac-Man GIF" width="500" align="center">
 </p>
+
