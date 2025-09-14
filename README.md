@@ -87,7 +87,7 @@ Using dynamic top languages from your repositories:
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=ayushpandey101">
 </picture>
 
-## Contribution Graph with Pac-Man Effect
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushpandey101/ayushpandey101/output/pacman-contribution-graph-dark.svg">
@@ -95,10 +95,12 @@ Using dynamic top languages from your repositories:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ayushpandey101/ayushpandey101/output/pacman-contribution-graph.svg">
 </picture>
 
+---
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ayushpandey101"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushpandey101" /></a></p><br><br>
 
+---
 ## Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ayushpandey101&theme=onedark)
@@ -107,6 +109,12 @@ Using dynamic top languages from your repositories:
 
 ---
 
-Made with ❤️ by [ayushpandey101](https://github.com/ayushpandey101) | [Twitter](https://twitter.com/ayushpandey_101) | [LinkedIn](https://linkedin.com/in/𝐀𝐘𝐔𝐒𝐇 𝐏𝐀𝐍𝐃𝐄𝐘) | [Instagram](https://instagram.com/ayushpandey_101) | [Discord](https://discord.com/users/codegeass#8614)
+<p>
+<a href="https://twitter.com/ayushpandey_101" target="blank"><img align="center" src="ayushpandey101/ayushpandey101/asset/X_logo.svg" alt="ayushpandey_101" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayushpandey101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushpandey_101" height="30" width="40" /></a>
+<a href="https://instagram.com/ayushpandey_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushpandey_101" height="30" width="40" /></a>
+<a href="https://discord.gg/codegeass#8614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="codegeass#8614" height="30" width="40" /></a>
+</p>
+
 
 ---
