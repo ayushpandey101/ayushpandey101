@@ -1,5 +1,5 @@
 [![20230523-132721.jpg](https://i.postimg.cc/4dyB4kDw/20230523-132721.jpg)](https://postimg.cc/JDwbKg4B)
-<h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
+<h1 align="center">Hi👋, I'm Ayush Pandey</h1>
 <h3 align="center">Code As Codegeass</h3>
 
 <br/>
@@ -99,4 +99,5 @@ A passionate Full Stack Developer focused on building efficient and user-centric
 <p align="center">
   <img src=".github/workflows/pac_gif.gif" alt="Pac-Man GIF" width="500" align="center">
 </p>
+
 
