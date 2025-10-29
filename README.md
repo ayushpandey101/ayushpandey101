@@ -64,6 +64,11 @@ A passionate Full Stack Developer focused on building efficient and user-centric
 
 ---
 
+<h2 align="center">🌟 Hacktoberfest 2024 Badges 🌟</h2>
+[![Holopin Badges](https://www.holopin.io/@ayushpandey101)](https://www.holopin.io/@ayushpandey101)
+
+---
+
 <h2 align="center">🏆 Trophies 🏆</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayushpandey101&theme=onedark" alt="Trophies"/>
@@ -99,5 +104,6 @@ A passionate Full Stack Developer focused on building efficient and user-centric
 <p align="center">
   <img src=".github/workflows/pac_gif.gif" alt="Pac-Man GIF" width="500" align="center">
 </p>
+
 
 
